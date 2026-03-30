@@ -35,7 +35,7 @@ Mindset: Engineering > Coding
 ### 🎨 Front-End (Presentation Layer)
 
 * HTML, CSS, JavaScript
-* React, Angular, Vue.js
+* React, Angular
 
 ### ⚙️ Back-End (Application Layer)
 
@@ -52,8 +52,8 @@ Mindset: Engineering > Coding
 
 ### ☁️ Infrastructure Layer
 
-* AWS, Google Cloud, Microsoft Azure
-* Docker, Kubernetes
+* AWS, Google Cloud,
+* Docker
 
 ### 🔗 APIs & Integrations
 
